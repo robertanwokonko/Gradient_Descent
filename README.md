@@ -1,3 +1,5 @@
 # Gradient_Descent
 
-Learn how to write a gradient descent algorithim from scratch
+Using the prinicple behind the equation of a straight line to define gradient descent on a 3D vector.
+
+
