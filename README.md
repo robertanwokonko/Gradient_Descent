@@ -5,3 +5,5 @@ The underlying principle used is that of a straight line : [Y = Mx + B ] to deri
 Gradient descent is used on a Linear regression problem to minimize the cost function (J) or the MSE. The slope of the secant line(also known as derivates) describes the change in the cost function(J) with respect to the gradient(M) and intercept(B).
 
 The learning rate is used to help the algrothim converge faster while being minimized.
+
+Program is in code.py
