@@ -10,7 +10,8 @@ def gradient_descent(x,y):
     m & b in your cost function (In this case cost function 
     is Mean Squared Error(MSE))
 
-    When taking the slope of a non-linear graph, use derivatives
+    When taking the slope of a non-linear graph, use derivatives. the derivative is a function that tells you the slope of the line tangent to 
+    a curve at any point. It gives you the rate of change at any instant i.e the instantaneous rate of change at any point.
     when taking the slope of a linear graph, use the equation of a straight line
 
     Arguments:
